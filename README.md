@@ -1,1 +1,3 @@
 # myterminalrepo
+
+Hello friends 
